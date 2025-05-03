@@ -1,6 +1,7 @@
-# Ai-Mailing
+# Ai-Mailing   live link - http://aimaillive.s3-website.eu-north-1.amazonaws.com/
 
-An AI-powered email assistant that simplifies and accelerates professional email writing and replying using advanced tone and context-based generation.  
+An AI-powered email assistant that simplifies and accelerates professional email writing and replying using advanced tone and context-based generation. 
+The Copy to clipboard is not working as it required money to buy domain and the deployed on Https, currently running on http
 
 ## 🚀 Tech Stack
 
